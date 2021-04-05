@@ -78,7 +78,15 @@ const quizData = [
         correct: 'a'
     },
     {
-        question: 'Qual\' è la prossima tecnologia che mi piacerebbe studiare?',
+        question: 'Qual\'è il mio stack tecnologico attuale?',
+        a: 'JavaScript, React, Python',
+        b: 'Java, Spring',
+        c: 'JavaScript, jQuery, Vue, Laravel',
+        d: 'Nessuna della precedenti',
+        correct: 'c'
+    },
+    {
+        question: 'Qual\'è la prossima tecnologia che mi piacerebbe studiare?',
         a: 'Angular',
         b: 'React',
         c: 'Vue',
